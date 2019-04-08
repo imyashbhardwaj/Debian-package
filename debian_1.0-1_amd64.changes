@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 07 Apr 2019 23:24:08 +0530
+Source: debian
+Binary: debian
+Architecture: source amd64
+Version: 1.0-1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Yash Bhardwaj <iamybhardwaj@gmail.com>
+Changed-By: Yash Bhardwaj <iamybhardwaj@gmail.com>
+Description:
+ debian     - auto-generated package by debmake
+Changes:
+ debian (1.0-1) UNRELEASED; urgency=low
+ .
+   * Initial release. Closes: #nnnn
+     <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 2eb6b10df7548fad9522cde0290279dafd88887f 792 debian_1.0-1.dsc
+ 57d07831959bcd7777d5ee1ea9db1b5bcdd3e689 1038 debian_1.0.orig.tar.gz
+ 8350c3a329cafd867c8d1573600ef4625ea49342 3476 debian_1.0-1.debian.tar.xz
+ e57d245e7a7e2bf36db6f0457694e6321f448771 3890 debian_1.0-1_amd64.deb
+Checksums-Sha256:
+ 3c00caff6cc1916bd33d56e8380bd91f2b6c86d4b59955a42603960af6526019 792 debian_1.0-1.dsc
+ eab627f231a965d2bcae1e17ebd474c2dda93d7cbcdf871d3954df58cb1f2965 1038 debian_1.0.orig.tar.gz
+ 6bb9674c72483e4aa63a717b77d1e83497bb2f001082dfb840a2d021d627cda0 3476 debian_1.0-1.debian.tar.xz
+ 934e617d9ceb732cc22748ccee30f7dbe936801dc3cb65caec47ff7308988e82 3890 debian_1.0-1_amd64.deb
+Files:
+ 6e99289a53b75605a5efccd4c3bee47c 792 trial extra debian_1.0-1.dsc
+ 6aa0fd75be15e247a93d4f2083f54e03 1038 trial extra debian_1.0.orig.tar.gz
+ a9496888b104d4f29c5d4a31f4c1db8d 3476 trial extra debian_1.0-1.debian.tar.xz
+ 8b5c65661c4bed0dd23c2d7ad5d46e79 3890 trial extra debian_1.0-1_amd64.deb

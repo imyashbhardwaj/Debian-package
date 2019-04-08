@@ -1,0 +1,6 @@
+debian (1.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Yash Bhardwaj <iamybhardwaj@gmail.com>  Sun, 07 Apr 2019 23:24:08 +0530
